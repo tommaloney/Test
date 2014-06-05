@@ -1,12 +1,7 @@
-<<<<<<< HEAD
+
 hello tom
 very sneaky
 adding something here!
 
 and one more thing...
 
-so did i!!!!
-woohoo
-=======
-hello tom
->>>>>>> parent of 3f63258... second commit on new branch
